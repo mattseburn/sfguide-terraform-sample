@@ -1,0 +1,6 @@
+.idea
+*.env
+*.sw?
+*.terraform*
+*.tfstate
+*.tfstate.*
